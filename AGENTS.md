@@ -6,7 +6,7 @@ Fork of [clickup-mcp-server](https://github.com/mikepsinn/clickup-mcp-server) - 
 ## Upstream Sync
 - Upstream: https://github.com/mikepsinn/clickup-mcp-server
 - Sync frequency: As needed
-- Last sync: {UPDATE_THIS}
+- Last sync: 2025-02-23
 
 ## Core Commands
 - Install: `npm install`
